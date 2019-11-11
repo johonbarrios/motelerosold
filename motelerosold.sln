@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "motelerosold", "motelerosold\motelerosold.csproj", "{8D93F682-DDC0-46E8-9ECB-7E169949E740}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADmotelerosold", "CADmotelerosold\CADmotelerosold.csproj", "{3AF91C89-87FD-4117-86C0-5B1F16BA5DCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8D93F682-DDC0-46E8-9ECB-7E169949E740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D93F682-DDC0-46E8-9ECB-7E169949E740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D93F682-DDC0-46E8-9ECB-7E169949E740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF91C89-87FD-4117-86C0-5B1F16BA5DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF91C89-87FD-4117-86C0-5B1F16BA5DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF91C89-87FD-4117-86C0-5B1F16BA5DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF91C89-87FD-4117-86C0-5B1F16BA5DCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
